@@ -6,7 +6,7 @@ normal item -> good to know (at least you should say "heard before")
 ## Basics
 
 ### Data Structures *
-- [ ] **Array**
+- [x] **Array**
 - [ ] Linked List
 - [ ] **Stack**
 - [ ] **Queue**
@@ -269,3 +269,6 @@ normal item -> good to know (at least you should say "heard before")
 
 
 
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTEwNDY0MDk2NTZdfQ==
+-->
