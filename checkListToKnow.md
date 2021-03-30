@@ -67,7 +67,8 @@ In the figure mentioned below, the root node 8 has two children 3 and 10; then t
 1.  **Max-Heap**: In a Max-Heap the key present at the root node must be greatest among the keys present at all of it’s children. The same property must be recursively true for all sub-trees in that Binary Tree.
 2.  **Min-Heap**: In a Min-Heap the key present at the root node must be minimum among the keys present at all of it’s children. The same property must be recursively true for all sub-trees in that Binary Tree. ]
  
-- [ ] Hashing
+- [ ] Hashing 
+- [  Hs]
 - [ ] Graph
 - [ ] Map, Dictionary
 
@@ -324,8 +325,9 @@ In the figure mentioned below, the root node 8 has two children 3 and 10; then t
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNjIzMjQ5NzUsMTgyODMxMjQ4MywtMz
-I2MTY3NjAzLDE0OTIzNTIwMDMsNjM5Mjg2OTk4LC0xNjM4Nzc5
-Njg2LC0xODc1NTMyMDEsLTUzOTE4MDMzOCwyMDk3OTk1Mjg1LD
-E5MTIyNDg0ODMsMTA1MzgwODY5OCwtMTg3NTU0ODc2OF19
+eyJoaXN0b3J5IjpbLTEyNzI5MTc2NDEsLTExNjIzMjQ5NzUsMT
+gyODMxMjQ4MywtMzI2MTY3NjAzLDE0OTIzNTIwMDMsNjM5Mjg2
+OTk4LC0xNjM4Nzc5Njg2LC0xODc1NTMyMDEsLTUzOTE4MDMzOC
+wyMDk3OTk1Mjg1LDE5MTIyNDg0ODMsMTA1MzgwODY5OCwtMTg3
+NTU0ODc2OF19
 -->
