@@ -61,7 +61,9 @@ In the figure mentioned below, the root node 8 has two children 3 and 10; then t
 -   The left subtree of a node contains only nodes with keys lesser than the node’s key.
 -   The right subtree of a node contains only nodes with keys greater than the node’s key.
 -   The left and right subtree each must also be a binary search tree  ] 
-- [ ] Heap
+- [ ] Heap 
+- [  ]
+ 
 - [ ] Hashing
 - [ ] Graph
 - [ ] Map, Dictionary
@@ -319,8 +321,8 @@ In the figure mentioned below, the root node 8 has two children 3 and 10; then t
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgyODMxMjQ4MywtMzI2MTY3NjAzLDE0OT
-IzNTIwMDMsNjM5Mjg2OTk4LC0xNjM4Nzc5Njg2LC0xODc1NTMy
-MDEsLTUzOTE4MDMzOCwyMDk3OTk1Mjg1LDE5MTIyNDg0ODMsMT
-A1MzgwODY5OCwtMTg3NTU0ODc2OF19
+eyJoaXN0b3J5IjpbLTE3NDY0MDUxNDIsMTgyODMxMjQ4MywtMz
+I2MTY3NjAzLDE0OTIzNTIwMDMsNjM5Mjg2OTk4LC0xNjM4Nzc5
+Njg2LC0xODc1NTMyMDEsLTUzOTE4MDMzOCwyMDk3OTk1Mjg1LD
+E5MTIyNDg0ODMsMTA1MzgwODY5OCwtMTg3NTU0ODc2OF19
 -->
