@@ -6,10 +6,10 @@ normal item -> good to know (at least you should say "hear before")
 ## Basics
 
 ### Data Structures *
-- [ ] **Array**
+- [x] **Array**
 -         Array Dimensions ,  Python has not Array type but list type could be used as Array in Python . 
 -         Array functions , push , pop   
-- [ ] Linked List 
+- [x] Linked List 
 - [ In simple words, a linked list consists of nodes where each node contains a data field and a reference(link) to the next node in the list. ] 
 
  ####    MajorDifferenceswithArray: Important
@@ -18,12 +18,12 @@ normal item -> good to know (at least you should say "hear before")
 -   **Memory efficiency:**  For the same number of elements, linked lists use more memory as a reference to the next node is also stored along with the data. However, size flexibility in linked lists may make them use less memory overall; this is useful when there is uncertainty about size or there are large variations in the size of data elements; memory equivalent to the upper limit on the size has to be allocated (even if not all of it is being used) while using arrays, whereas linked lists can increase their sizes step-by-step proportionately to the amount of data.
 -   **Execution time:** Any element in an array can be directly accessed with its index; however in case of a linked list, all the previous elements must be traversed to reach any element. Also, better cache locality in arrays (due to contiguous memory allocation) can significantly improve performance. As a result, some operations (such as modifying a certain element) are faster in arrays, while some other (such as inserting/deleting an element in the data) are faster in linked lists.
 
-- [ ] **Stack** 
+- [x] **Stack** 
 - [  In case of arrays and linked lists, these two allows programmers to insert and delete elements from any place within the list, i.e., from the beginning or the end or even from the middle also. But in computer programming and development, there may arise some situations where insertion and deletion require only at one end wither at the beginning or end of the list. The stack is a linear data structure, and all the insertion and deletion of its values are done in the same end which is called the _top_ of the stack. Let us suppose take the real-life example of a stack of plates or a pile of books etc. As the item in this form of data structure can be removed or added from the top only which means the last item to be added to the stack is the first item to be removed. So you can say that the stack follows the Last In First Out (LIFO) structure. ] 
-- [ ] **Queue** 
+- [x] **Queue** 
 - [  A queue is a linear list of elements in which deletion of an element can take place only at one end called the front and insertion can take place on the other end which is termed as the rear. The term front and rear are frequently used while describing queues in a linked list. In this chapter, you will deal with the queue as arrays.
 	In the concept of a queue, the first element to be inserted in the queue will be the first element to be deleted or removed from the list. So Queue is said to follow the FIFO (First In First Out) structure. A real-life scenario in the form of example for queue will be the queue of people waiting to accomplish a particular task where the first person in the queue is the first person to be served first.]
-- [ ] Binary Tree 
+- [x] Binary Tree 
 - [  [  
 
 
@@ -314,7 +314,7 @@ In the figure mentioned below, the root node 8 has two children 3 and 10; then t
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk3ODE5ODgyNywxNDkyMzUyMDAzLDYzOT
+eyJoaXN0b3J5IjpbLTMyNjE2NzYwMywxNDkyMzUyMDAzLDYzOT
 I4Njk5OCwtMTYzODc3OTY4NiwtMTg3NTUzMjAxLC01MzkxODAz
 MzgsMjA5Nzk5NTI4NSwxOTEyMjQ4NDgzLDEwNTM4MDg2OTgsLT
 E4NzU1NDg3NjhdfQ==
