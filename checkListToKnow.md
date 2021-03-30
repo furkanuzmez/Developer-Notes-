@@ -371,6 +371,7 @@ Shadow DOM var olan herhangi bir DOM öğesinden oluşturulabilen kapsüllenmiş
 - [ ] Server Side
 - [ ] **Client Side**
 - [ ] Redis
+- [ ]    https://medium.com/devopsturkiye/redis-nedir-ne-i%CC%87%C5%9Fe-yarar-1a19ebbdb2b4
 - [ ] Memcached
 
 ### Web Security Knowlodge
@@ -418,11 +419,11 @@ Shadow DOM var olan herhangi bir DOM öğesinden oluşturulabilen kapsüllenmiş
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA5MDY0NTQyMiwxMzg0MTgzMjk4LC0xMD
-EwODkzOTUzLC0xNDkwOTEzMzAzLDEyMTI2ODk3MDUsLTE5MTM1
-NjY0MjMsMzIzMjExMTc5LDE2ODAwMTc4MTAsLTE1MTg5OTc4ND
-gsNDM0NzY5NTMwLDEwMzk4MjEyMTksLTExNjIzMjQ5NzUsMTgy
-ODMxMjQ4MywtMzI2MTY3NjAzLDE0OTIzNTIwMDMsNjM5Mjg2OT
-k4LC0xNjM4Nzc5Njg2LC0xODc1NTMyMDEsLTUzOTE4MDMzOCwy
-MDk3OTk1Mjg1XX0=
+eyJoaXN0b3J5IjpbLTkyNjU3NzgxMSwxMDkwNjQ1NDIyLDEzOD
+QxODMyOTgsLTEwMTA4OTM5NTMsLTE0OTA5MTMzMDMsMTIxMjY4
+OTcwNSwtMTkxMzU2NjQyMywzMjMyMTExNzksMTY4MDAxNzgxMC
+wtMTUxODk5Nzg0OCw0MzQ3Njk1MzAsMTAzOTgyMTIxOSwtMTE2
+MjMyNDk3NSwxODI4MzEyNDgzLC0zMjYxNjc2MDMsMTQ5MjM1Mj
+AwMyw2MzkyODY5OTgsLTE2Mzg3Nzk2ODYsLTE4NzU1MzIwMSwt
+NTM5MTgwMzM4XX0=
 -->
