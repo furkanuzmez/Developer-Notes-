@@ -79,7 +79,22 @@ Thus, it becomes a data structure in which insertion and search operations are v
 - [   A graph is a pictorial representation of a set of objects where some pairs of objects are connected by links. The interconnected objects are represented by points termed as **vertices**, and the links that connect the vertices are called **edge** ] 
 - [ ] Map, Dictionary
 
-### Algorithms *
+### Algorithms * 
+
+  
+Algorithm is a step-by-step procedure, which defines a set of instructions to be executed in a certain order to get the desired output. Algorithms are generally created independent of underlying languages, i.e. an algorithm can be implemented in more than one programming language.
+
+From the data structure point of view, following are some important categories of algorithms −
+
+-   **Search**  − Algorithm to search an item in a data structure.
+    
+-   **Sort**  − Algorithm to sort items in a certain order.
+    
+-   **Insert**  − Algorithm to insert item in a data structure.
+    
+-   **Update**  − Algorithm to update an existing item in a data structure.
+    
+-   **Delete**  − Algorithm to delete an existing item from a data structure.
 - [ ] **Analysis of Algorithms**
 - [ ] **Searching and Sorting**
 - [ ] Greedy Algorithms
@@ -332,9 +347,9 @@ Thus, it becomes a data structure in which insertion and search operations are v
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDM0NzY5NTMwLDEwMzk4MjEyMTksLTExNj
-IzMjQ5NzUsMTgyODMxMjQ4MywtMzI2MTY3NjAzLDE0OTIzNTIw
-MDMsNjM5Mjg2OTk4LC0xNjM4Nzc5Njg2LC0xODc1NTMyMDEsLT
-UzOTE4MDMzOCwyMDk3OTk1Mjg1LDE5MTIyNDg0ODMsMTA1Mzgw
-ODY5OCwtMTg3NTU0ODc2OF19
+eyJoaXN0b3J5IjpbLTE1MTg5OTc4NDgsNDM0NzY5NTMwLDEwMz
+k4MjEyMTksLTExNjIzMjQ5NzUsMTgyODMxMjQ4MywtMzI2MTY3
+NjAzLDE0OTIzNTIwMDMsNjM5Mjg2OTk4LC0xNjM4Nzc5Njg2LC
+0xODc1NTMyMDEsLTUzOTE4MDMzOCwyMDk3OTk1Mjg1LDE5MTIy
+NDg0ODMsMTA1MzgwODY5OCwtMTg3NTU0ODc2OF19
 -->
