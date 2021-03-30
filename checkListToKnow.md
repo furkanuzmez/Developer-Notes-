@@ -238,7 +238,7 @@ There are various ways available to solve any computer problem, but the mentione
 - [ ] **Syntax and Basic Constructs**
 - [ ] **Learn DOM Manupulation** *
 - [ ] **Learn Fetch API/Ajax (XHR)** *
-- [ ]  
+-  Axios 
 - [ ] Hoisting *
 - [ ] Event Bubbling *
 - [ ] Scope
@@ -418,7 +418,7 @@ Shadow DOM var olan herhangi bir DOM öğesinden oluşturulabilen kapsüllenmiş
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ0OTQyNzQxMiwtMTAxMDg5Mzk1MywtMT
+eyJoaXN0b3J5IjpbMTM4NDE4MzI5OCwtMTAxMDg5Mzk1MywtMT
 Q5MDkxMzMwMywxMjEyNjg5NzA1LC0xOTEzNTY2NDIzLDMyMzIx
 MTE3OSwxNjgwMDE3ODEwLC0xNTE4OTk3ODQ4LDQzNDc2OTUzMC
 wxMDM5ODIxMjE5LC0xMTYyMzI0OTc1LDE4MjgzMTI0ODMsLTMy
