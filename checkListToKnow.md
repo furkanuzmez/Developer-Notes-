@@ -315,7 +315,6 @@ Shadow DOM var olan herhangi bir DOM öğesinden oluşturulabilen kapsüllenmiş
 - [ ] Server Side
 - [ ] **Client Side**
 - [ ] Redis
-- [ ]    https://medium.com/devopsturkiye/redis-nedir-ne-i%CC%87%C5%9Fe-yarar-1a19ebbdb2b4
 - [ ] Memcached
 
 ### Web Security Knowlodge
@@ -350,7 +349,8 @@ Shadow DOM var olan herhangi bir DOM öğesinden oluşturulabilen kapsüllenmiş
 - [ ] Graph 
 - [ ] Map, Dictionary
 
-### Algorithms * [ ] SOA
+### Algorithms * 
+- [ ] SOA
 - [ ] CQRS and Event Sourcing
 - [ ] **Serverless**
 
@@ -373,11 +373,11 @@ Shadow DOM var olan herhangi bir DOM öğesinden oluşturulabilen kapsüllenmiş
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYzMTAyMDI2MCwtMTgzNTU0ODAzNCwtOT
-I2NTc3ODExLDEwOTA2NDU0MjIsMTM4NDE4MzI5OCwtMTAxMDg5
-Mzk1MywtMTQ5MDkxMzMwMywxMjEyNjg5NzA1LC0xOTEzNTY2ND
-IzLDMyMzIxMTE3OSwxNjgwMDE3ODEwLC0xNTE4OTk3ODQ4LDQz
-NDc2OTUzMCwxMDM5ODIxMjE5LC0xMTYyMzI0OTc1LDE4MjgzMT
-I0ODMsLTMyNjE2NzYwMywxNDkyMzUyMDAzLDYzOTI4Njk5OCwt
-MTYzODc3OTY4Nl19
+eyJoaXN0b3J5IjpbNzQ0NTA2OTA0LC02MzEwMjAyNjAsLTE4Mz
+U1NDgwMzQsLTkyNjU3NzgxMSwxMDkwNjQ1NDIyLDEzODQxODMy
+OTgsLTEwMTA4OTM5NTMsLTE0OTA5MTMzMDMsMTIxMjY4OTcwNS
+wtMTkxMzU2NjQyMywzMjMyMTExNzksMTY4MDAxNzgxMCwtMTUx
+ODk5Nzg0OCw0MzQ3Njk1MzAsMTAzOTgyMTIxOSwtMTE2MjMyND
+k3NSwxODI4MzEyNDgzLC0zMjYxNjc2MDMsMTQ5MjM1MjAwMyw2
+MzkyODY5OThdfQ==
 -->
