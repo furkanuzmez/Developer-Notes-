@@ -71,6 +71,9 @@ Thus, it becomes a data structure in which insertion and search operations are v
 - [ ] Graph 
 - [   A graph is a pictorial representation of a set of objects where some pairs of objects are connected by links. The interconnected objects are represented by points termed as **vertices**, and the links that connect the vertices are called **edge** ] 
 - [ ] Map, Dictionary
+
+
+> Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ1MzM5Mjk2Ml19
+eyJoaXN0b3J5IjpbMjA0MDA5NzY4NiwtNDUzMzkyOTYyXX0=
 -->
