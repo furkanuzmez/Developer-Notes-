@@ -243,6 +243,7 @@ There are various ways available to solve any computer problem, but the mentione
 - [ ] Scope
 - [ ] Prototype *
 - [ ] **Shadow DOM** *
+- [ ] 
 - [ ] strict
 - [ ] **ES6+ features** * (like arrow function for ex.)
 - [ ] TypeScript *
@@ -414,11 +415,11 @@ There are various ways available to solve any computer problem, but the mentione
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0OTA5MTMzMDMsMTIxMjY4OTcwNSwtMT
-kxMzU2NjQyMywzMjMyMTExNzksMTY4MDAxNzgxMCwtMTUxODk5
-Nzg0OCw0MzQ3Njk1MzAsMTAzOTgyMTIxOSwtMTE2MjMyNDk3NS
-wxODI4MzEyNDgzLC0zMjYxNjc2MDMsMTQ5MjM1MjAwMyw2Mzky
-ODY5OTgsLTE2Mzg3Nzk2ODYsLTE4NzU1MzIwMSwtNTM5MTgwMz
-M4LDIwOTc5OTUyODUsMTkxMjI0ODQ4MywxMDUzODA4Njk4LC0x
-ODc1NTQ4NzY4XX0=
+eyJoaXN0b3J5IjpbLTE2ODE4MzYyNjAsLTE0OTA5MTMzMDMsMT
+IxMjY4OTcwNSwtMTkxMzU2NjQyMywzMjMyMTExNzksMTY4MDAx
+NzgxMCwtMTUxODk5Nzg0OCw0MzQ3Njk1MzAsMTAzOTgyMTIxOS
+wtMTE2MjMyNDk3NSwxODI4MzEyNDgzLC0zMjYxNjc2MDMsMTQ5
+MjM1MjAwMyw2MzkyODY5OTgsLTE2Mzg3Nzk2ODYsLTE4NzU1Mz
+IwMSwtNTM5MTgwMzM4LDIwOTc5OTUyODUsMTkxMjI0ODQ4Mywx
+MDUzODA4Njk4XX0=
 -->
