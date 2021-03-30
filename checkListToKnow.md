@@ -2,7 +2,7 @@
 ## Ms. Eng. Furkan Üzmez
 if there is a star (*) in any subject you can write a blog post about it.
 **bold item** -> have to know
-normal item -> good to know (at least you should say "heard before") 
+normal item -> good to know (at least you should say "hear before") 
 ## Basics
 
 ### Data Structures *
@@ -270,5 +270,5 @@ normal item -> good to know (at least you should say "heard before")
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NzU1NDg3NjhdfQ==
+eyJoaXN0b3J5IjpbMTA1MzgwODY5OCwtMTg3NTU0ODc2OF19
 -->
