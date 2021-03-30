@@ -25,6 +25,28 @@ normal item -> good to know (at least you should say "hear before")
 - [ ] Pattern Searching
 - [ ] Backtracking
 - [ ] **Divide and Conquer**
+
+
+
+- [ ] **Searching and Sorting**
+- [ ] Greedy Algorithms
+- [ ] Dynamic Programming
+- [ ] Pattern Searching
+- [ ] Backtracking
+- [ ] **Divide and Conquer**
+-          In divide and conquer approach, the problem in hand, is divided into smaller sub-problems and then each problem is solved independently. When we keep on dividing the subproblems into even smaller sub-problems, we may eventually reach a stage where no more division is possible. Those "atomic" smallest possible sub-problem (fractions) are solved. The solution of all sub-problems is finally merged in order to obtain the solution of an original problem. 
+     ### Examples
+
+The following computer algorithms are based on  **divide-and-conquer**  programming approach −
+
+-   Merge Sort
+-   Quick Sort
+-   Binary Search
+-   Strassen's Matrix Multiplication
+-   Closest pair (points)
+
+There are various ways available to solve any computer problem, but the mentioned are a good example of divide and conquer approach
+
 - [ ] Graph Algoritms
 - [ ] Randomized Algorithms
 
@@ -278,11 +300,11 @@ Shadow DOM var olan herhangi bir DOM öğesinden oluşturulabilen kapsüllenmiş
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkzNDg2MTYwNywtNjMxMDIwMjYwLC0xOD
-M1NTQ4MDM0LC05MjY1Nzc4MTEsMTA5MDY0NTQyMiwxMzg0MTgz
-Mjk4LC0xMDEwODkzOTUzLC0xNDkwOTEzMzAzLDEyMTI2ODk3MD
-UsLTE5MTM1NjY0MjMsMzIzMjExMTc5LDE2ODAwMTc4MTAsLTE1
-MTg5OTc4NDgsNDM0NzY5NTMwLDEwMzk4MjEyMTksLTExNjIzMj
-Q5NzUsMTgyODMxMjQ4MywtMzI2MTY3NjAzLDE0OTIzNTIwMDMs
-NjM5Mjg2OTk4XX0=
+eyJoaXN0b3J5IjpbLTE1NzY0NDUzMDUsLTkzNDg2MTYwNywtNj
+MxMDIwMjYwLC0xODM1NTQ4MDM0LC05MjY1Nzc4MTEsMTA5MDY0
+NTQyMiwxMzg0MTgzMjk4LC0xMDEwODkzOTUzLC0xNDkwOTEzMz
+AzLDEyMTI2ODk3MDUsLTE5MTM1NjY0MjMsMzIzMjExMTc5LDE2
+ODAwMTc4MTAsLTE1MTg5OTc4NDgsNDM0NzY5NTMwLDEwMzk4Mj
+EyMTksLTExNjIzMjQ5NzUsMTgyODMxMjQ4MywtMzI2MTY3NjAz
+LDE0OTIzNTIwMDNdfQ==
 -->
