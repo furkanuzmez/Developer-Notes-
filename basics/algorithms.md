@@ -1,5 +1,5 @@
 
-  
+  ### Algorithms * 
 Algorithm is a step-by-step procedure, which defines a set of instructions to be executed in a certain order to get the desired output. Algorithms are generally created independent of underlying languages, i.e. an algorithm can be implemented in more than one programming language.
 
 From the data structure point of view, following are some important categories of algorithms −
@@ -91,5 +91,5 @@ There are various ways available to solve any computer problem, but the mentione
 - [ ] Randomized Algorithms
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA2NzI3NzM5MF19
+eyJoaXN0b3J5IjpbMjAxNzA2ODgzNV19
 -->
