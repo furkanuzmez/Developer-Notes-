@@ -75,7 +75,8 @@ Thus, it becomes a data structure in which insertion and search operations are v
 
  Hashing is a technique to convert a range of key values into a range of indexes of an array. We're going to use modulo operator to get a range of key values. Consider an example of hash table of size 20, and the following items are to be stored. Item are in the (key,value) format.
 
-- [ ] Graph
+- [ ] Graph 
+- [    ] 
 - [ ] Map, Dictionary
 
 ### Algorithms *
@@ -331,9 +332,9 @@ Thus, it becomes a data structure in which insertion and search operations are v
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAzOTgyMTIxOSwtMTE2MjMyNDk3NSwxOD
-I4MzEyNDgzLC0zMjYxNjc2MDMsMTQ5MjM1MjAwMyw2MzkyODY5
-OTgsLTE2Mzg3Nzk2ODYsLTE4NzU1MzIwMSwtNTM5MTgwMzM4LD
-IwOTc5OTUyODUsMTkxMjI0ODQ4MywxMDUzODA4Njk4LC0xODc1
-NTQ4NzY4XX0=
+eyJoaXN0b3J5IjpbMTcyMjU1MTAzNiwxMDM5ODIxMjE5LC0xMT
+YyMzI0OTc1LDE4MjgzMTI0ODMsLTMyNjE2NzYwMywxNDkyMzUy
+MDAzLDYzOTI4Njk5OCwtMTYzODc3OTY4NiwtMTg3NTUzMjAxLC
+01MzkxODAzMzgsMjA5Nzk5NTI4NSwxOTEyMjQ4NDgzLDEwNTM4
+MDg2OTgsLTE4NzU1NDg3NjhdfQ==
 -->
