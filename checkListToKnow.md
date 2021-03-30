@@ -21,7 +21,8 @@ normal item -> good to know (at least you should say "hear before")
 - [ ] **Stack** 
 - [  In case of arrays and linked lists, these two allows programmers to insert and delete elements from any place within the list, i.e., from the beginning or the end or even from the middle also. But in computer programming and development, there may arise some situations where insertion and deletion require only at one end wither at the beginning or end of the list. The stack is a linear data structure, and all the insertion and deletion of its values are done in the same end which is called the _top_ of the stack. Let us suppose take the real-life example of a stack of plates or a pile of books etc. As the item in this form of data structure can be removed or added from the top only which means the last item to be added to the stack is the first item to be removed. So you can say that the stack follows the Last In First Out (LIFO) structure. ] 
 - [ ] **Queue** 
-- [ 
+- [  A queue is a linear list of elements in which deletion of an element can take place only at one end called the front and insertion can take place on the other end which is termed as the rear. The term front and rear are frequently used while describing queues in a linked list. In this chapter, you will deal with the queue as arrays.
+	In the concept of a queue, the first element to be inserted in the queue will be the first element to be deleted or removed from the list. So Queue is said to follow the FIFO (First In First Out) structure. A real-life scenario in the form of example for queue will be the queue of people waiting to accomplish a particular task where the first person in the queue is the first person to be served first.]
 - [ ] Binary Tree
 - [ ] Binary Search Tree
 - [ ] Heap
@@ -282,8 +283,8 @@ normal item -> good to know (at least you should say "hear before")
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NDQ4NzQ0ODAsNjM5Mjg2OTk4LC0xNj
-M4Nzc5Njg2LC0xODc1NTMyMDEsLTUzOTE4MDMzOCwyMDk3OTk1
-Mjg1LDE5MTIyNDg0ODMsMTA1MzgwODY5OCwtMTg3NTU0ODc2OF
-19
+eyJoaXN0b3J5IjpbMTQ5MjM1MjAwMyw2MzkyODY5OTgsLTE2Mz
+g3Nzk2ODYsLTE4NzU1MzIwMSwtNTM5MTgwMzM4LDIwOTc5OTUy
+ODUsMTkxMjI0ODQ4MywxMDUzODA4Njk4LC0xODc1NTQ4NzY4XX
+0=
 -->
