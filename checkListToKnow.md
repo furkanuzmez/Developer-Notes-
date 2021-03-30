@@ -9,7 +9,8 @@ normal item -> good to know (at least you should say "hear before")
 - [ ] **Array**
 -         Array Dimensions ,  Python has not Array type but list type could be used as Array in Python . 
 -         Array functions , push , pop   
-- [ ] Linked List
+- [ ] Linked List 
+- [ In simple words, a linked list consists of nodes where each node contains a data field and a reference(link) to the next node in the list. ] 
 - [ ] **Stack**
 - [ ] **Queue**
 - [ ] Binary Tree
@@ -272,6 +273,6 @@ normal item -> good to know (at least you should say "hear before")
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkxMjI0ODQ4MywxMDUzODA4Njk4LC0xOD
-c1NTQ4NzY4XX0=
+eyJoaXN0b3J5IjpbMjA5Nzk5NTI4NSwxOTEyMjQ4NDgzLDEwNT
+M4MDg2OTgsLTE4NzU1NDg3NjhdfQ==
 -->
