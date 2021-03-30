@@ -55,7 +55,12 @@ A binary tree is a special type of tree in which every node or vertex has either
 Child node in a binary tree on the left is termed as 'left child node' and node in the right is termed as the 'right child node.'
 
 In the figure mentioned below, the root node 8 has two children 3 and 10; then this two child node again acts as a parent node for 1 and 6 for left parent node 3 and 14 for right parent node 10. Similarly, 6 and 14 has a child node.] 
-- [ ] Binary Search Tree
+- [ ] Binary Search Tree 
+- [ **Binary Search Tree**  is a node-based binary tree data structure which has the following properties:
+
+-   The left subtree of a node contains only nodes with keys lesser than the node’s key.
+-   The right subtree of a node contains only nodes with keys greater than the node’s key.
+-   The left and right subtree each must also be a binary search tree  ] 
 - [ ] Heap
 - [ ] Hashing
 - [ ] Graph
@@ -314,8 +319,8 @@ In the figure mentioned below, the root node 8 has two children 3 and 10; then t
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMyNjE2NzYwMywxNDkyMzUyMDAzLDYzOT
-I4Njk5OCwtMTYzODc3OTY4NiwtMTg3NTUzMjAxLC01MzkxODAz
-MzgsMjA5Nzk5NTI4NSwxOTEyMjQ4NDgzLDEwNTM4MDg2OTgsLT
-E4NzU1NDg3NjhdfQ==
+eyJoaXN0b3J5IjpbMTgyODMxMjQ4MywtMzI2MTY3NjAzLDE0OT
+IzNTIwMDMsNjM5Mjg2OTk4LC0xNjM4Nzc5Njg2LC0xODc1NTMy
+MDEsLTUzOTE4MDMzOCwyMDk3OTk1Mjg1LDE5MTIyNDg0ODMsMT
+A1MzgwODY5OCwtMTg3NTU0ODc2OF19
 -->
