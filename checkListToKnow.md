@@ -95,6 +95,22 @@ From the data structure point of view, following are some important categories o
 -   **Update**  − Algorithm to update an existing item in a data structure.
     
 -   **Delete**  − Algorithm to delete an existing item from a data structure.
+
+## Characteristics of an Algorithm
+
+Not all procedures can be called an algorithm. An algorithm should have the following characteristics −
+
+-   **Unambiguous**  − Algorithm should be clear and unambiguous. Each of its steps (or phases), and their inputs/outputs should be clear and must lead to only one meaning.
+    
+-   **Input**  − An algorithm should have 0 or more well-defined inputs.
+    
+-   **Output**  − An algorithm should have 1 or more well-defined outputs, and should match the desired output.
+    
+-   **Finiteness**  − Algorithms must terminate after a finite number of steps.
+    
+-   **Feasibility**  − Should be feasible with the available resources.
+    
+-   **Independent**  − An algorithm should have step-by-step directions, which should be independent of any programming code.
 - [ ] **Analysis of Algorithms**
 - [ ] **Searching and Sorting**
 - [ ] Greedy Algorithms
@@ -347,9 +363,10 @@ From the data structure point of view, following are some important categories o
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MTg5OTc4NDgsNDM0NzY5NTMwLDEwMz
-k4MjEyMTksLTExNjIzMjQ5NzUsMTgyODMxMjQ4MywtMzI2MTY3
-NjAzLDE0OTIzNTIwMDMsNjM5Mjg2OTk4LC0xNjM4Nzc5Njg2LC
-0xODc1NTMyMDEsLTUzOTE4MDMzOCwyMDk3OTk1Mjg1LDE5MTIy
-NDg0ODMsMTA1MzgwODY5OCwtMTg3NTU0ODc2OF19
+eyJoaXN0b3J5IjpbMTc5MDg3OTQyNCwtMTUxODk5Nzg0OCw0Mz
+Q3Njk1MzAsMTAzOTgyMTIxOSwtMTE2MjMyNDk3NSwxODI4MzEy
+NDgzLC0zMjYxNjc2MDMsMTQ5MjM1MjAwMyw2MzkyODY5OTgsLT
+E2Mzg3Nzk2ODYsLTE4NzU1MzIwMSwtNTM5MTgwMzM4LDIwOTc5
+OTUyODUsMTkxMjI0ODQ4MywxMDUzODA4Njk4LC0xODc1NTQ4Nz
+Y4XX0=
 -->
