@@ -130,7 +130,24 @@ Suppose  **X**  is an algorithm and  **n**  is the size of input data, the time 
 -   **Space Factor**  − Space is measured by counting the maximum memory space required by the algorithm.
     
 
-The complexity of an algorithm  **f(n)**  gives the running time and/or the storage space required by the algorithm in terms of  **n**  as the size of input data.
+The complexity of an algorithm  **f(n)**  gives the running time and/or the storage space required by the algorithm in terms of  **n**  as the size of input data. 
+
+## Space Complexity
+
+Space complexity of an algorithm represents the amount of memory space required by the algorithm in its life cycle. The space required by an algorithm is equal to the sum of the following two components −
+
+-   A fixed part that is a space required to store certain data and variables, that are independent of the size of the problem. For example, simple variables and constants used, program size, etc.
+    
+-   A variable part is a space required by variables, whose size depends on the size of the problem. For example, dynamic memory allocation, recursion stack space, etc.
+    
+
+Space complexity S(P) of any algorithm P is S(P) = C + SP(I), where C is the fixed part and S(I) is the variable part of the algorithm, which depends on instance characteristic I. Following is a simple example that tries to explain the concept − 
+
+## Time Complexity
+
+Time complexity of an algorithm represents the amount of time required by the algorithm to run to completion. Time requirements can be defined as a numerical function T(n), where T(n) can be measured as the number of steps, provided each step consumes constant time.
+
+For example, addition of two n-bit integers takes  **n**  steps. Consequently, the total computational time is T(n) = c ∗ n, where c is the time taken for the addition of two bits. Here, we observe that T(n) grows linearly as the input size increases.
 
 
 - [ ] **Searching and Sorting**
@@ -384,10 +401,10 @@ The complexity of an algorithm  **f(n)**  gives the running time and/or the stor
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY4MDAxNzgxMCwtMTUxODk5Nzg0OCw0Mz
-Q3Njk1MzAsMTAzOTgyMTIxOSwtMTE2MjMyNDk3NSwxODI4MzEy
-NDgzLC0zMjYxNjc2MDMsMTQ5MjM1MjAwMyw2MzkyODY5OTgsLT
-E2Mzg3Nzk2ODYsLTE4NzU1MzIwMSwtNTM5MTgwMzM4LDIwOTc5
-OTUyODUsMTkxMjI0ODQ4MywxMDUzODA4Njk4LC0xODc1NTQ4Nz
-Y4XX0=
+eyJoaXN0b3J5IjpbMzIzMjExMTc5LDE2ODAwMTc4MTAsLTE1MT
+g5OTc4NDgsNDM0NzY5NTMwLDEwMzk4MjEyMTksLTExNjIzMjQ5
+NzUsMTgyODMxMjQ4MywtMzI2MTY3NjAzLDE0OTIzNTIwMDMsNj
+M5Mjg2OTk4LC0xNjM4Nzc5Njg2LC0xODc1NTMyMDEsLTUzOTE4
+MDMzOCwyMDk3OTk1Mjg1LDE5MTIyNDg0ODMsMTA1MzgwODY5OC
+wtMTg3NTU0ODc2OF19
 -->
