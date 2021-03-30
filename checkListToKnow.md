@@ -156,7 +156,19 @@ For example, addition of two n-bit integers takes  **n**  steps. Consequently, t
 - [ ] Pattern Searching
 - [ ] Backtracking
 - [ ] **Divide and Conquer**
-- [ ] 
+-          In divide and conquer approach, the problem in hand, is divided into smaller sub-problems and then each problem is solved independently. When we keep on dividing the subproblems into even smaller sub-problems, we may eventually reach a stage where no more division is possible. Those "atomic" smallest possible sub-problem (fractions) are solved. The solution of all sub-problems is finally merged in order to obtain the solution of an original problem. 
+     ### Examples
+
+The following computer algorithms are based on  **divide-and-conquer**  programming approach −
+
+-   Merge Sort
+-   Quick Sort
+-   Binary Search
+-   Strassen's Matrix Multiplication
+-   Closest pair (points)
+
+There are various ways available to solve any computer problem, but the mentioned are a good example of divide and conquer approach
+
 - [ ] Graph Algoritms
 - [ ] Randomized Algorithms
 
@@ -402,7 +414,7 @@ For example, addition of two n-bit integers takes  **n**  steps. Consequently, t
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NjY1MjUyMTgsMzIzMjExMTc5LDE2OD
+eyJoaXN0b3J5IjpbLTE5MTM1NjY0MjMsMzIzMjExMTc5LDE2OD
 AwMTc4MTAsLTE1MTg5OTc4NDgsNDM0NzY5NTMwLDEwMzk4MjEy
 MTksLTExNjIzMjQ5NzUsMTgyODMxMjQ4MywtMzI2MTY3NjAzLD
 E0OTIzNTIwMDMsNjM5Mjg2OTk4LC0xNjM4Nzc5Njg2LC0xODc1
