@@ -12,7 +12,7 @@ normal item -> good to know (at least you should say "hear before")
 - [ ] Linked List 
 - [ In simple words, a linked list consists of nodes where each node contains a data field and a reference(link) to the next node in the list. ] 
 - 
--  **MajorDifferenceswithArray: ** Important
+-   **MajorDifferenceswithArray: ** Important
 -   **Size:** Since data can only be stored in contiguous blocks of memory in an array, its size cannot be altered at runtime due to risk of overwriting over other data. However in a linked list, each node points to the next one such that data can exist at scattered (non-contiguous) addresses; this allows for a dynamic size which can change at runtime.
 -   **Memory allocation:**  For arrays at compile time and at runtime for linked lists.
 -   **Memory efficiency:**  For the same number of elements, linked lists use more memory as a reference to the next node is also stored along with the data. However, size flexibility in linked lists may make them use less memory overall; this is useful when there is uncertainty about size or there are large variations in the size of data elements; memory equivalent to the upper limit on the size has to be allocated (even if not all of it is being used) while using arrays, whereas linked lists can increase their sizes step-by-step proportionately to the amount of data.
@@ -279,7 +279,7 @@ normal item -> good to know (at least you should say "hear before")
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU2NzE1MjE2MiwtMTg3NTUzMjAxLC01Mz
-kxODAzMzgsMjA5Nzk5NTI4NSwxOTEyMjQ4NDgzLDEwNTM4MDg2
-OTgsLTE4NzU1NDg3NjhdfQ==
+eyJoaXN0b3J5IjpbLTE2Mzg3Nzk2ODYsLTE4NzU1MzIwMSwtNT
+M5MTgwMzM4LDIwOTc5OTUyODUsMTkxMjI0ODQ4MywxMDUzODA4
+Njk4LC0xODc1NTQ4NzY4XX0=
 -->
