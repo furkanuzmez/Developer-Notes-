@@ -156,6 +156,7 @@ For example, addition of two n-bit integers takes  **n**  steps. Consequently, t
 - [ ] Pattern Searching
 - [ ] Backtracking
 - [ ] **Divide and Conquer**
+- [ ] 
 - [ ] Graph Algoritms
 - [ ] Randomized Algorithms
 
@@ -401,10 +402,10 @@ For example, addition of two n-bit integers takes  **n**  steps. Consequently, t
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzIzMjExMTc5LDE2ODAwMTc4MTAsLTE1MT
-g5OTc4NDgsNDM0NzY5NTMwLDEwMzk4MjEyMTksLTExNjIzMjQ5
-NzUsMTgyODMxMjQ4MywtMzI2MTY3NjAzLDE0OTIzNTIwMDMsNj
-M5Mjg2OTk4LC0xNjM4Nzc5Njg2LC0xODc1NTMyMDEsLTUzOTE4
-MDMzOCwyMDk3OTk1Mjg1LDE5MTIyNDg0ODMsMTA1MzgwODY5OC
-wtMTg3NTU0ODc2OF19
+eyJoaXN0b3J5IjpbLTE5NjY1MjUyMTgsMzIzMjExMTc5LDE2OD
+AwMTc4MTAsLTE1MTg5OTc4NDgsNDM0NzY5NTMwLDEwMzk4MjEy
+MTksLTExNjIzMjQ5NzUsMTgyODMxMjQ4MywtMzI2MTY3NjAzLD
+E0OTIzNTIwMDMsNjM5Mjg2OTk4LC0xNjM4Nzc5Njg2LC0xODc1
+NTMyMDEsLTUzOTE4MDMzOCwyMDk3OTk1Mjg1LDE5MTIyNDg0OD
+MsMTA1MzgwODY5OCwtMTg3NTU0ODc2OF19
 -->
