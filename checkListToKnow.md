@@ -67,8 +67,14 @@ In the figure mentioned below, the root node 8 has two children 3 and 10; then t
 1.  **Max-Heap**: In a Max-Heap the key present at the root node must be greatest among the keys present at all of it’s children. The same property must be recursively true for all sub-trees in that Binary Tree.
 2.  **Min-Heap**: In a Min-Heap the key present at the root node must be minimum among the keys present at all of it’s children. The same property must be recursively true for all sub-trees in that Binary Tree. ]
  
-- [ ] Hashing 
-- [  Hs]
+- [ ] **Hashing** 
+- [  **Hash Table** ] 
+-   Hash Table is a data structure which stores data in an associative manner. In a hash table, data is stored in an array format, where each data value has its own unique index value. Access of data becomes very fast if we know the index of the desired data.
+
+Thus, it becomes a data structure in which insertion and search operations are very fast irrespective of the size of the data. Hash Table uses an array as a storage medium and uses hash technique to generate an index where an element is to be inserted or is to be located from. 
+
+ Hashing is a technique to convert a range of key values into a range of indexes of an array. We're going to use modulo operator to get a range of key values. Consider an example of hash table of size 20, and the following items are to be stored. Item are in the (key,value) format.
+
 - [ ] Graph
 - [ ] Map, Dictionary
 
@@ -325,9 +331,9 @@ In the figure mentioned below, the root node 8 has two children 3 and 10; then t
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNzI5MTc2NDEsLTExNjIzMjQ5NzUsMT
-gyODMxMjQ4MywtMzI2MTY3NjAzLDE0OTIzNTIwMDMsNjM5Mjg2
-OTk4LC0xNjM4Nzc5Njg2LC0xODc1NTMyMDEsLTUzOTE4MDMzOC
-wyMDk3OTk1Mjg1LDE5MTIyNDg0ODMsMTA1MzgwODY5OCwtMTg3
-NTU0ODc2OF19
+eyJoaXN0b3J5IjpbMTAzOTgyMTIxOSwtMTE2MjMyNDk3NSwxOD
+I4MzEyNDgzLC0zMjYxNjc2MDMsMTQ5MjM1MjAwMyw2MzkyODY5
+OTgsLTE2Mzg3Nzk2ODYsLTE4NzU1MzIwMSwtNTM5MTgwMzM4LD
+IwOTc5OTUyODUsMTkxMjI0ODQ4MywxMDUzODA4Njk4LC0xODc1
+NTQ4NzY4XX0=
 -->
