@@ -176,9 +176,9 @@ There are various ways available to solve any computer problem, but the mentione
 - [ ] **Creational Patterns**
 	- [ ] Abstract Factory
 	- [ ] Builder
-	- [ ] **Factory Method**
+	- [x] **Factory Method**
 	- [ ] Prototype
-	- [ ] **Singleton**
+	- [x] **Singleton**
 - [ ] Structural Patterns
 	- [ ] **Adapter**
 	- [ ] Bridge
@@ -414,10 +414,11 @@ There are various ways available to solve any computer problem, but the mentione
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MTM1NjY0MjMsMzIzMjExMTc5LDE2OD
-AwMTc4MTAsLTE1MTg5OTc4NDgsNDM0NzY5NTMwLDEwMzk4MjEy
-MTksLTExNjIzMjQ5NzUsMTgyODMxMjQ4MywtMzI2MTY3NjAzLD
-E0OTIzNTIwMDMsNjM5Mjg2OTk4LC0xNjM4Nzc5Njg2LC0xODc1
-NTMyMDEsLTUzOTE4MDMzOCwyMDk3OTk1Mjg1LDE5MTIyNDg0OD
-MsMTA1MzgwODY5OCwtMTg3NTU0ODc2OF19
+eyJoaXN0b3J5IjpbLTE1MDE3NDE2NywtMTkxMzU2NjQyMywzMj
+MyMTExNzksMTY4MDAxNzgxMCwtMTUxODk5Nzg0OCw0MzQ3Njk1
+MzAsMTAzOTgyMTIxOSwtMTE2MjMyNDk3NSwxODI4MzEyNDgzLC
+0zMjYxNjc2MDMsMTQ5MjM1MjAwMyw2MzkyODY5OTgsLTE2Mzg3
+Nzk2ODYsLTE4NzU1MzIwMSwtNTM5MTgwMzM4LDIwOTc5OTUyOD
+UsMTkxMjI0ODQ4MywxMDUzODA4Njk4LC0xODc1NTQ4NzY4XX0=
+
 -->
