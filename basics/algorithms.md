@@ -89,9 +89,7 @@ There are various ways available to solve any computer problem, but the mentione
 
 - [ ] Graph Algoritms
 - [ ] Randomized Algorithms
-
-
-> Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjUyNDI4OTMsMjAxNzA2ODgzNV19
+eyJoaXN0b3J5IjpbLTM2NjQ5NzIyNyw2NTI0Mjg5MywyMDE3MD
+Y4ODM1XX0=
 -->
