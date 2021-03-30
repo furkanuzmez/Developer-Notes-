@@ -238,6 +238,7 @@ There are various ways available to solve any computer problem, but the mentione
 - [ ] **Syntax and Basic Constructs**
 - [ ] **Learn DOM Manupulation** *
 - [ ] **Learn Fetch API/Ajax (XHR)** *
+- [ ]  
 - [ ] Hoisting *
 - [ ] Event Bubbling *
 - [ ] Scope
@@ -417,11 +418,11 @@ Shadow DOM var olan herhangi bir DOM öğesinden oluşturulabilen kapsüllenmiş
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMTA4OTM5NTMsLTE0OTA5MTMzMDMsMT
-IxMjY4OTcwNSwtMTkxMzU2NjQyMywzMjMyMTExNzksMTY4MDAx
-NzgxMCwtMTUxODk5Nzg0OCw0MzQ3Njk1MzAsMTAzOTgyMTIxOS
-wtMTE2MjMyNDk3NSwxODI4MzEyNDgzLC0zMjYxNjc2MDMsMTQ5
-MjM1MjAwMyw2MzkyODY5OTgsLTE2Mzg3Nzk2ODYsLTE4NzU1Mz
-IwMSwtNTM5MTgwMzM4LDIwOTc5OTUyODUsMTkxMjI0ODQ4Mywx
-MDUzODA4Njk4XX0=
+eyJoaXN0b3J5IjpbMTQ0OTQyNzQxMiwtMTAxMDg5Mzk1MywtMT
+Q5MDkxMzMwMywxMjEyNjg5NzA1LC0xOTEzNTY2NDIzLDMyMzIx
+MTE3OSwxNjgwMDE3ODEwLC0xNTE4OTk3ODQ4LDQzNDc2OTUzMC
+wxMDM5ODIxMjE5LC0xMTYyMzI0OTc1LDE4MjgzMTI0ODMsLTMy
+NjE2NzYwMywxNDkyMzUyMDAzLDYzOTI4Njk5OCwtMTYzODc3OT
+Y4NiwtMTg3NTUzMjAxLC01MzkxODAzMzgsMjA5Nzk5NTI4NSwx
+OTEyMjQ4NDgzXX0=
 -->
