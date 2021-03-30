@@ -7,7 +7,7 @@ normal item -> good to know (at least you should say "hear before")
 
 ### Data Structures *
 - [ ] **Array**
--         Array Dimensions , 
+-         Array Dimensions ,  Python has not Array type but list type could be used as Array in Python . 
 -         Array functions , push , pop   
 - [ ] Linked List
 - [ ] **Stack**
@@ -272,6 +272,6 @@ normal item -> good to know (at least you should say "hear before")
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjE1NDA2NzIzLDEwNTM4MDg2OTgsLTE4Nz
-U1NDg3NjhdfQ==
+eyJoaXN0b3J5IjpbMTkxMjI0ODQ4MywxMDUzODA4Njk4LC0xOD
+c1NTQ4NzY4XX0=
 -->
