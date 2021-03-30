@@ -243,7 +243,9 @@ There are various ways available to solve any computer problem, but the mentione
 - [ ] Scope
 - [ ] Prototype *
 - [ ] **Shadow DOM** *
-- [ ] 
+ #### Shadow DOM
+
+Shadow DOM var olan herhangi bir DOM öğesinden oluşturulabilen kapsüllenmiş DOM nesnesidir. Shadow DOM’u oluşturan DOM öğesi  **ShadowHost**, kapsüllenmiş yeni öğe ise  **ShadowRoot**  olarak adlandırılır. Aşağıdaki JavaScript parçası Shadow DOM öğesinin nasıl oluşturulduğunu göstermektedir.
 - [ ] strict
 - [ ] **ES6+ features** * (like arrow function for ex.)
 - [ ] TypeScript *
@@ -415,7 +417,7 @@ There are various ways available to solve any computer problem, but the mentione
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2ODE4MzYyNjAsLTE0OTA5MTMzMDMsMT
+eyJoaXN0b3J5IjpbLTEwMTA4OTM5NTMsLTE0OTA5MTMzMDMsMT
 IxMjY4OTcwNSwtMTkxMzU2NjQyMywzMjMyMTExNzksMTY4MDAx
 NzgxMCwtMTUxODk5Nzg0OCw0MzQ3Njk1MzAsMTAzOTgyMTIxOS
 wtMTE2MjMyNDk3NSwxODI4MzEyNDgzLC0zMjYxNjc2MDMsMTQ5
