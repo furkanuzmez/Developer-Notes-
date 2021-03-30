@@ -183,7 +183,7 @@ There are various ways available to solve any computer problem, but the mentione
 	- [x] **Adapter**
 	- [ ] Bridge
 	- [ ] Composite
-	- [ ] Decorator
+	- [ ] **Decorator**
 	- [ ] Facade
 	- [ ] Flyweight
 	- [ ] Proxy
@@ -191,7 +191,7 @@ There are various ways available to solve any computer problem, but the mentione
 	- [ ] Chain of Responsibility
 	- [ ] Command
 	- [ ] Interpreter
-	- [ ] Iterator
+	- [ ] **Iterator**
 	- [ ] Mediator
 	- [ ] Memento
 	- [x] **Observer**
@@ -414,11 +414,11 @@ There are various ways available to solve any computer problem, but the mentione
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIxMjY4OTcwNSwtMTkxMzU2NjQyMywzMj
-MyMTExNzksMTY4MDAxNzgxMCwtMTUxODk5Nzg0OCw0MzQ3Njk1
-MzAsMTAzOTgyMTIxOSwtMTE2MjMyNDk3NSwxODI4MzEyNDgzLC
-0zMjYxNjc2MDMsMTQ5MjM1MjAwMyw2MzkyODY5OTgsLTE2Mzg3
-Nzk2ODYsLTE4NzU1MzIwMSwtNTM5MTgwMzM4LDIwOTc5OTUyOD
-UsMTkxMjI0ODQ4MywxMDUzODA4Njk4LC0xODc1NTQ4NzY4XX0=
-
+eyJoaXN0b3J5IjpbLTE0OTA5MTMzMDMsMTIxMjY4OTcwNSwtMT
+kxMzU2NjQyMywzMjMyMTExNzksMTY4MDAxNzgxMCwtMTUxODk5
+Nzg0OCw0MzQ3Njk1MzAsMTAzOTgyMTIxOSwtMTE2MjMyNDk3NS
+wxODI4MzEyNDgzLC0zMjYxNjc2MDMsMTQ5MjM1MjAwMyw2Mzky
+ODY5OTgsLTE2Mzg3Nzk2ODYsLTE4NzU1MzIwMSwtNTM5MTgwMz
+M4LDIwOTc5OTUyODUsMTkxMjI0ODQ4MywxMDUzODA4Njk4LC0x
+ODc1NTQ4NzY4XX0=
 -->
