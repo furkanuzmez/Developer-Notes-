@@ -112,6 +112,27 @@ Not all procedures can be called an algorithm. An algorithm should have the foll
     
 -   **Independent**  − An algorithm should have step-by-step directions, which should be independent of any programming code.
 - [ ] **Analysis of Algorithms**
+        Efficiency of an algorithm can be analyzed at two different stages, before implementation and after implementation. They are the following −
+
+-   **_A Priori_  Analysis**  − This is a theoretical analysis of an algorithm. Efficiency of an algorithm is measured by assuming that all other factors, for example, processor speed, are constant and have no effect on the implementation.
+    
+-   **_A Posterior_  Analysis**  − This is an empirical analysis of an algorithm. The selected algorithm is implemented using programming language. This is then executed on target computer machine. In this analysis, actual statistics like running time and space required, are collected.
+    
+
+We shall learn about  _a priori_  algorithm analysis. Algorithm analysis deals with the execution or running time of various operations involved. The running time of an operation can be defined as the number of computer instructions executed per operation. 
+
+## Algorithm Complexity
+
+Suppose  **X**  is an algorithm and  **n**  is the size of input data, the time and space used by the algorithm X are the two main factors, which decide the efficiency of X.
+
+-   **Time Factor**  − Time is measured by counting the number of key operations such as comparisons in the sorting algorithm.
+    
+-   **Space Factor**  − Space is measured by counting the maximum memory space required by the algorithm.
+    
+
+The complexity of an algorithm  **f(n)**  gives the running time and/or the storage space required by the algorithm in terms of  **n**  as the size of input data.
+
+
 - [ ] **Searching and Sorting**
 - [ ] Greedy Algorithms
 - [ ] Dynamic Programming
@@ -363,7 +384,7 @@ Not all procedures can be called an algorithm. An algorithm should have the foll
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc5MDg3OTQyNCwtMTUxODk5Nzg0OCw0Mz
+eyJoaXN0b3J5IjpbMTY4MDAxNzgxMCwtMTUxODk5Nzg0OCw0Mz
 Q3Njk1MzAsMTAzOTgyMTIxOSwtMTE2MjMyNDk3NSwxODI4MzEy
 NDgzLC0zMjYxNjc2MDMsMTQ5MjM1MjAwMyw2MzkyODY5OTgsLT
 E2Mzg3Nzk2ODYsLTE4NzU1MzIwMSwtNTM5MTgwMzM4LDIwOTc5
