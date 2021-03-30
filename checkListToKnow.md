@@ -23,7 +23,38 @@ normal item -> good to know (at least you should say "hear before")
 - [ ] **Queue** 
 - [  A queue is a linear list of elements in which deletion of an element can take place only at one end called the front and insertion can take place on the other end which is termed as the rear. The term front and rear are frequently used while describing queues in a linked list. In this chapter, you will deal with the queue as arrays.
 	In the concept of a queue, the first element to be inserted in the queue will be the first element to be deleted or removed from the list. So Queue is said to follow the FIFO (First In First Out) structure. A real-life scenario in the form of example for queue will be the queue of people waiting to accomplish a particular task where the first person in the queue is the first person to be served first.]
-- [ ] Binary Tree
+- [ ] Binary Tree 
+- [  [  
+
+
+This chapter explores one of the most important non-linear data structures, i.e., trees. Various kinds of trees are available with different features. You will start learning with the most important tree structure, i.e., the binary tree which is a finite set of elements that is either empty or further divided into sub-trees.
+
+There are two ways to represent binary trees. These are:
+
+-   Using arrays
+-   Using Linked lists
+
+**Table of Contents**
+
+[#  The Non-Linear Data structure](https://www.w3schools.in/data-structures-tutorial/binary-trees/#The_Non-Linear_Data_structure)
+
+[#  What is a Binary Tree?](https://www.w3schools.in/data-structures-tutorial/binary-trees/#What_is_a_Binary_Tree)
+
+[#  Applications of Binary Tree](https://www.w3schools.in/data-structures-tutorial/binary-trees/#Applications_of_Binary_Tree)
+
+[#  Types of Binary Trees are](https://www.w3schools.in/data-structures-tutorial/binary-trees/#Types_of_Binary_Trees_are)
+
+## The Non-Linear Data structure
+
+The data structures that you have learned so far were merely linear - strings, arrays, lists, stacks, and queues. One of the most important nonlinear data structure is the tree. Trees are mainly used to represent data containing the hierarchical relationship between elements, example: records, family trees, and table of contents. A tree may be defined as a finite set 'T' of one or more nodes such that there is a node designated as the root of the tree and the other nodes are divided into n>=0 disjoint sets T1, T2, T3, T4  …. Tn  are called the subtrees or children of the root.
+
+## What is a Binary Tree?
+
+A binary tree is a special type of tree in which every node or vertex has either no child node or one child node or two child nodes. A binary tree is an important class of a tree data structure in which a node can have at most two children.
+
+Child node in a binary tree on the left is termed as 'left child node' and node in the right is termed as the 'right child node.'
+
+In the figure mentioned below, the root node 8 has two children 3 and 10; then this two child node again acts as a parent node for 1 and 6 for left parent node 3 and 14 for right parent node 10. Similarly, 6 and 14 has a child node.] 
 - [ ] Binary Search Tree
 - [ ] Heap
 - [ ] Hashing
@@ -283,8 +314,8 @@ normal item -> good to know (at least you should say "hear before")
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ5MjM1MjAwMyw2MzkyODY5OTgsLTE2Mz
-g3Nzk2ODYsLTE4NzU1MzIwMSwtNTM5MTgwMzM4LDIwOTc5OTUy
-ODUsMTkxMjI0ODQ4MywxMDUzODA4Njk4LC0xODc1NTQ4NzY4XX
-0=
+eyJoaXN0b3J5IjpbLTk3ODE5ODgyNywxNDkyMzUyMDAzLDYzOT
+I4Njk5OCwtMTYzODc3OTY4NiwtMTg3NTUzMjAxLC01MzkxODAz
+MzgsMjA5Nzk5NTI4NSwxOTEyMjQ4NDgzLDEwNTM4MDg2OTgsLT
+E4NzU1NDg3NjhdfQ==
 -->
