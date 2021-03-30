@@ -275,7 +275,7 @@ Shadow DOM var olan herhangi bir DOM öğesinden oluşturulabilen kapsüllenmiş
 ### React
 - [ ] **Redux***
 - [ ] redux-thunk or redux-saga or redux-observable*
-### Testing*
+### Testing
 - [ ] **Jest**
 - [ ] **react-testing-library**
 - [ ] **Cypress**
@@ -418,11 +418,11 @@ Shadow DOM var olan herhangi bir DOM öğesinden oluşturulabilen kapsüllenmiş
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM4NDE4MzI5OCwtMTAxMDg5Mzk1MywtMT
-Q5MDkxMzMwMywxMjEyNjg5NzA1LC0xOTEzNTY2NDIzLDMyMzIx
-MTE3OSwxNjgwMDE3ODEwLC0xNTE4OTk3ODQ4LDQzNDc2OTUzMC
-wxMDM5ODIxMjE5LC0xMTYyMzI0OTc1LDE4MjgzMTI0ODMsLTMy
-NjE2NzYwMywxNDkyMzUyMDAzLDYzOTI4Njk5OCwtMTYzODc3OT
-Y4NiwtMTg3NTUzMjAxLC01MzkxODAzMzgsMjA5Nzk5NTI4NSwx
-OTEyMjQ4NDgzXX0=
+eyJoaXN0b3J5IjpbMTA5MDY0NTQyMiwxMzg0MTgzMjk4LC0xMD
+EwODkzOTUzLC0xNDkwOTEzMzAzLDEyMTI2ODk3MDUsLTE5MTM1
+NjY0MjMsMzIzMjExMTc5LDE2ODAwMTc4MTAsLTE1MTg5OTc4ND
+gsNDM0NzY5NTMwLDEwMzk4MjEyMTksLTExNjIzMjQ5NzUsMTgy
+ODMxMjQ4MywtMzI2MTY3NjAzLDE0OTIzNTIwMDMsNjM5Mjg2OT
+k4LC0xNjM4Nzc5Njg2LC0xODc1NTMyMDEsLTUzOTE4MDMzOCwy
+MDk3OTk1Mjg1XX0=
 -->
