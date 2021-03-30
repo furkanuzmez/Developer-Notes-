@@ -7,7 +7,8 @@ normal item -> good to know (at least you should say "hear before")
 
 ### Data Structures *
 - [ ] **Array**
--         Array Dimensions ,  
+-         Array Dimensions , 
+-         Array functions , push , pop   
 - [ ] Linked List
 - [ ] **Stack**
 - [ ] **Queue**
@@ -271,6 +272,6 @@ normal item -> good to know (at least you should say "hear before")
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NzU1MjE4ODksMTA1MzgwODY5OCwtMT
-g3NTU0ODc2OF19
+eyJoaXN0b3J5IjpbNjE1NDA2NzIzLDEwNTM4MDg2OTgsLTE4Nz
+U1NDg3NjhdfQ==
 -->
