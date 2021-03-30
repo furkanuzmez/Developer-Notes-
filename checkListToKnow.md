@@ -180,7 +180,7 @@ There are various ways available to solve any computer problem, but the mentione
 	- [ ] Prototype
 	- [x] **Singleton**
 - [ ] Structural Patterns
-	- [ ] **Adapter**
+	- [x] **Adapter**
 	- [ ] Bridge
 	- [ ] Composite
 	- [ ] Decorator
@@ -194,7 +194,7 @@ There are various ways available to solve any computer problem, but the mentione
 	- [ ] Iterator
 	- [ ] Mediator
 	- [ ] Memento
-	- [ ] **Observer**
+	- [x] **Observer**
 	- [ ] State
 	- [ ] Strategy
 	- [ ] Template Method
@@ -414,7 +414,7 @@ There are various ways available to solve any computer problem, but the mentione
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MDE3NDE2NywtMTkxMzU2NjQyMywzMj
+eyJoaXN0b3J5IjpbMTIxMjY4OTcwNSwtMTkxMzU2NjQyMywzMj
 MyMTExNzksMTY4MDAxNzgxMCwtMTUxODk5Nzg0OCw0MzQ3Njk1
 MzAsMTAzOTgyMTIxOSwtMTE2MjMyNDk3NSwxODI4MzEyNDgzLC
 0zMjYxNjc2MDMsMTQ5MjM1MjAwMyw2MzkyODY5OTgsLTE2Mzg3
