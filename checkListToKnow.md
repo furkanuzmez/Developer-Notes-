@@ -244,17 +244,6 @@ Shadow DOM var olan herhangi bir DOM öğesinden oluşturulabilen kapsüllenmiş
 ### Architectural Patterns
 - [ ] **Monolithic Apps**
 - [ ] **Microservices**
-- [x] Linked List 
-- [x] **Stack** 
-- [x] **Queue** 
-- [x] Binary Tree 
-- [x] Binary Search Tree 
-- [x] Heap 
-- [ ] **Hashing** 
-- [ ] Graph 
-- [ ] Map, Dictionary
-
-### Algorithms * 
 - [ ] SOA
 - [ ] CQRS and Event Sourcing
 - [ ] **Serverless**
@@ -278,11 +267,11 @@ Shadow DOM var olan herhangi bir DOM öğesinden oluşturulabilen kapsüllenmiş
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkzNDg2MTYwNywtMTU3NjQ0NTMwNSwtOT
-M0ODYxNjA3LC02MzEwMjAyNjAsLTE4MzU1NDgwMzQsLTkyNjU3
-NzgxMSwxMDkwNjQ1NDIyLDEzODQxODMyOTgsLTEwMTA4OTM5NT
-MsLTE0OTA5MTMzMDMsMTIxMjY4OTcwNSwtMTkxMzU2NjQyMywz
-MjMyMTExNzksMTY4MDAxNzgxMCwtMTUxODk5Nzg0OCw0MzQ3Nj
-k1MzAsMTAzOTgyMTIxOSwtMTE2MjMyNDk3NSwxODI4MzEyNDgz
-LC0zMjYxNjc2MDNdfQ==
+eyJoaXN0b3J5IjpbMjE3MjQ5NTQ5LC05MzQ4NjE2MDcsLTE1Nz
+Y0NDUzMDUsLTkzNDg2MTYwNywtNjMxMDIwMjYwLC0xODM1NTQ4
+MDM0LC05MjY1Nzc4MTEsMTA5MDY0NTQyMiwxMzg0MTgzMjk4LC
+0xMDEwODkzOTUzLC0xNDkwOTEzMzAzLDEyMTI2ODk3MDUsLTE5
+MTM1NjY0MjMsMzIzMjExMTc5LDE2ODAwMTc4MTAsLTE1MTg5OT
+c4NDgsNDM0NzY5NTMwLDEwMzk4MjEyMTksLTExNjIzMjQ5NzUs
+MTgyODMxMjQ4M119
 -->
